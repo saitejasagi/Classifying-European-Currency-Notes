@@ -3,7 +3,7 @@ Using customized pre-trained (ResNet, VGG16 and MobileNet) models to classify th
 
 **DATA**
 
-European Dollar curreny denominations of 5,10,20,50,100,200,500 Euros. Images doenloaded into Jupyter Notebook in IBM Watson Studio.
+European Dollar curreny denominations of 5, 10, 20, 50, 100, 200, 500 Euros. Images downloaded into Jupyter Notebook in IBM Watson Studio.
 
 **Results**
 
